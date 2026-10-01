@@ -1,6 +1,6 @@
 # dekita_flutter_firebase
 
-A new Flutter project.
+A to-do list app built with Flutter & Firebase, which I use as a template for my other projects that use the mentioned technologies. Work in progress.
 
 ## Getting Started
 
