@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1056978834787",
+    "project_id": "dekita-flutter-firebase-7195f",
+    "storage_bucket": "dekita-flutter-firebase-7195f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056978834787:android:efda2dbd69f1a223902f56",
+        "android_client_info": {
+          "package_name": "com.example.dekita_flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnHucmRPj8UuBZgPnAc1F1K5cvYDhYHa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
