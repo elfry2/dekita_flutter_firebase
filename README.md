@@ -2,6 +2,9 @@
 
 A to-do list app built with Flutter & Firebase, which I use as a template for my other projects that use the mentioned technologies. Work in progress.
 
+## Installation
+Run `flutterfire configure` before anything else.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
